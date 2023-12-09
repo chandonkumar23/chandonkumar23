@@ -37,7 +37,7 @@
 
 <h1 align="left">Latest Projects:</h1>
 
-1 .<h2> Latest Projects</h2>
+1 .<h2> Trips Fables</h2>
 Link link : https://assignment-12-17c04.web.app/
 
 This is a tour guide website. everyone esaly find his fevrite place
