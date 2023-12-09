@@ -35,3 +35,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandonkumar23&" alt="chandonkumar23" /></p>
 
+<h3 align="left">Latest Projects:</h3>
+
+1 . Trips Fables
+Link link : https://assignment-12-17c04.web.app/
+
+This is a tour guide website. everyone esaly find his fevrite place
+
+
+## Overview:
+
+ 
+Through this website the everyone can find his favorite place where he wants to go on tour and book the tour very easily.A new user can sign up very easily.  and can login.  user can add his/her favorite places to the wish list.If a normal user clicks on the profile picture in the nav bar, a dashboard will be displayed which will have My Profile, My Booking, My Waste Test.This website has admit roll. Admin can add sightseeing places.
+ 
+ ## Techonology:
+ - React js
+ - node js
+ - express js
+ - Tailwind css
+ - daisy ui
+
