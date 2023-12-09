@@ -18,7 +18,8 @@
 - 👯 I’m looking to collaborate on **gitHub**
 
 - 💬 Ask me about **Anything related to web development**
-
+</br>
+</br>
 <div> </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,12 +30,12 @@
 <h3 align="left">Summary of my profile</h3>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandonkumar23&show_icons=true&locale=en&layout=compact" alt="chandonkumar23" /></p>
 
-
+</br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chandonkumar23&show_icons=true&locale=en" alt="chandonkumar23" /></p>
-
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandonkumar23&" alt="chandonkumar23" /></p>
-
+</br>
 <h1 align="left">Latest Projects:</h1>
 
 <h2> 1. Trips Fables</h2>
