@@ -85,7 +85,7 @@ All bokking services will show dashboard/myshedule section , user can booking. u
 <h2> 3. Fassion Hub</h2>
  Live Link : https://coffee-client-side.web.app/
 
-This is a e-Commerce
+This is a e-Commerce website
 
 
 <h3 align="left"> Overview:
