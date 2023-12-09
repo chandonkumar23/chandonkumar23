@@ -21,15 +21,15 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chandon-kumar-4033072a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandon-kumar-4033072a0/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/chandonkumerbappy.chandonkumerbappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/chandonkumerbappy.chandonkumerbappy" height="30" width="40" /></a>
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandonkumar23&show_icons=true&locale=en&layout=compact" alt="chandonkumar23" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandonkumar23&show_icons=true&locale=en&layout=compact" alt="chandonkumar23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandonkumar23&show_icons=true&locale=en" alt="chandonkumar23" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=chandonkumar23&show_icons=true&locale=en" alt="chandonkumar23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandonkumar23&" alt="chandonkumar23" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=chandonkumar23&" alt="chandonkumar23" /></p>
 
