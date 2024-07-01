@@ -1,4 +1,4 @@
-<img align="center" src="https://i.postimg.cc/BnFfzZm1/Chandon-kumar-10.png  width="800""/>
+<img align="center" src="https://i.postimg.cc/BnFfzZm1/Chandon-kumar-10.png  width=800"/>
 
 <h1 align="center">Hi 👋, I'm Chandon kumar</h1>
 <h3 align="center">Web Developer</h3>
