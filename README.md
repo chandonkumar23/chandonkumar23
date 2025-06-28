@@ -68,21 +68,28 @@ Through this website the everyone can find his favorite place where he wants to 
 
 
 
-<h2> 2. Handy</h2>
- Live Link:  https://assignment-7bce6.web.app
+<h2> 2. RestuPOS</h2>
+ Live Link: (https://restupos-24070.web.app/)
 
-This is a home services exchange website
+A Restaurant pos website .
 
 
 <h3 align="left"> Overview:
 </h3>
  
-This is a home service exchange website ,here have some home service everone can post and book a service
-everone can see 4 popular services on home page and have more button ,onclicking the more button then redirec the all service section here have 6 sercive and more button onclicking more button then show other all services.
- only user can see service detailes, and booking service ,if valid user click the detailes button the redirec the service detailes section ,here user can see service full detailes and have book button ,user can book service
-All bokking services will show dashboard/myshedule section , user can booking. user can add a services by add services section ,user can edit and delete thire services 
- 
-<h3 align="left"> Techonology:
+Our restaurant website improves operations with services for Admins, Managers, and Sellers.
+Roles:
+Admin: Manage users, monitor sales, oversee operations.
+Manager: Supervise activities, manage food items, handle orders, generate reports.
+Seller: Process orders, track sales, update statuses, assist customers.
+
+Features:
+Food Management: Add/update menu items.
+Order Processing: Easy ordering with updates.
+Order History: Track past orders.
+Seller Monitoring: Track performance.
+Accounts: Manage finances, generate reports.
+A simple, efficient platform for restaurant management.
 </h3>
  - React js
  - node js
@@ -91,20 +98,38 @@ All bokking services will show dashboard/myshedule section , user can booking. u
  - Tailwind css
  - daisy ui
  
-<h2> 3. Fassion Hub</h2>
- Live Link : https://coffee-client-side.web.app/
+<h2> 3. DVS</h2>
+ Live Link : (https://electronic-voting-system-beta.vercel.app](https://electronic-voting-system-beta.vercel.app/)
 
-This is a e-Commerce website
+Electronic voting system web application.
 
 
 <h3 align="left"> Overview:
 </h3>
  
- this web site is fassion brand products selling website user can choice and buy products esalyuser can add products. when clicking add product then show a form and user esaly add products.all products brand name have on the home page.clicking the one brand then show 4 products  of this brand and one slider and detailes button and update buttonon clicking the detailes button  show all informaion of this products. when user click the addcart button then add this product on mycart section and user can delete add product.
- 
+ Online Voting System - Project Description
+
+Our online voting system enables secure, efficient, and transparent voting.
+
+Services:
+
+Vote Creation: Admins create and manage voting events.
+
+Member Management: Add and manage voting members.
+
+Live Results: Real-time result previews.
+
+Features:
+
+Secure Voting: Ensures data privacy.
+
+User-Friendly: Easy navigation.
+
+Real-Time Updates: Instant voting feedback.
+
 <h3 align="left"> Techonology:
 </h3>
- - React js
+ - NEXT js
  - node js
  - express js
  -mongo db
