@@ -99,7 +99,7 @@ A simple, efficient platform for restaurant management.
  - daisy ui
  
 <h2> 3. DVS</h2>
- Live Link : (https://electronic-voting-system-beta.vercel.app](https://electronic-voting-system-beta.vercel.app/)
+ Live Link : (https://electronic-voting-system-beta.vercel.app/)
 
 Electronic voting system web application.
 
